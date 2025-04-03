@@ -49,7 +49,12 @@ python train.py --epochs 50 --batch-size 16
 ## 📌 Sample Results
 Example of cavity detection on a sample dental X-ray:
 
-![Sample Detection](path/to/your/image3.jpg)
+![Screenshot 2025-04-03 230348](https://github.com/user-attachments/assets/e56cd453-10b0-4ef1-b2be-ab2abd323383)
+
+![Screenshot 2025-04-03 230430](https://github.com/user-attachments/assets/8d77b98c-4d19-433a-b58b-e706e159fe03)
+
+
+
 
 ## 🚀 Future Improvements
 - Improve model accuracy with more labeled data 📚  
