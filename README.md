@@ -8,19 +8,15 @@ This project implements a **Cavity Detection Model** using deep learning techniq
 ```
 📁 cavity-detection
 ├── 📜 README.md
-├── 📜 requirements.txt
 ├── 📂 dataset
-│   ├── 🖼 images/
-│   ├── 📄 annotations/
+│   ├── 🖼 Videos/
 ├── 📂 models
 │   ├── 🧠 cavity_detection_model.pth
 ├── 📂 src
 │   ├── 📝 train.py
-│   ├── 📝 detect.py
-│   ├── 📝 utils.py
 └── 📂 results
     ├── 📊 performance_metrics.png
-    ├── 🖼 sample_predictions/
+    ├── 🖼 output_video.mp4/
 ```
 
 ## 🛠 Installation
